@@ -41,7 +41,7 @@ There might be a web interface for this *eventually*, but for now, you can run t
 
 ### Disclaimer
 
-No warranties are provided while using this software. Feel free to pull, fork, and modify as you see fit. If you find any issues, let me know about them via/ "Issues."
+No warranties are provided while using this software. Feel free to pull, fork, and modify as you see fit. If you find any issues, let me know about them via/ [GitHub Issues](https://github.com/doghouch/python-voicemail-greeting/issues). Alternatively, fork the project, and open a pull request.
 
 ### License
 
@@ -49,9 +49,9 @@ This project is licensed under MIT-0. See the LICENSE file for more details.
 
 While licensed under MIT-0, the audio provided may not (though, I've seen a few posts about this, and it seems like no additional licensing exists for generated audio).
 
-See the license file [here](?tab=MIT-0-1-ov-file).
+See the license file [here](https://github.com/doghouch/python-voicemail-greeting/blob/main/LICENSE).
 
-I do appreciate acknowledgements, but <ins>by no means is it required</ins>.
+I appreciate acknowledgements, but <ins>by no means is this required</ins>.
 
 ### Credits
 
