@@ -30,7 +30,7 @@ class CreateVoicemail:
             Returns:
                 str - string path
         """
-        return os.path.join(CONSTS.Config.BASE_DIR, num)
+        return os.path.join(CONSTS.Config.BASE_DIR, CONSTS.Config.LOCALE, num)
 
     def map_num(num: int) -> CONSTS.Numbers:
         """

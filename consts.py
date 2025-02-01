@@ -7,6 +7,7 @@ class CONSTS:
         BASE_DIR = "assets"
         GLOBAL_VOL_ADJ = -10 # global MP3 volume offset
         DIGITS_VOL_ADJ = -3 # TTS digits volume offset    
+        LOCALE = "canadian" # either "canadian" or "english"
     
     class Numbers:
         """

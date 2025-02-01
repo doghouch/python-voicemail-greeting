@@ -4,7 +4,23 @@
 
 My current carrier (of the blue/orange bird variety) in Canada does not provide pre-recorded greetings w/o mentioning your name.
 
-I wanted to have a fairly generic one, and couldn't find one online that had the "signature" TTS voice, so I mashed this together using Microsoft Azure's Text-to-Speech (free tier) + NEURAL_CLARA (Canadian English) as the voice.
+I wanted to have a fairly generic one, and couldn't find one online that had the "signature" TTS voice, so I mashed this together using Microsoft Azure's Text-to-Speech (free tier) + NEURAL_CLARA (Canadian English) as the voice. 
+
+Edit: I've added a British voice (NARRATION_SONIA) as well, but it's a tad glitchy (and I haven't had the chance to fix it).
+
+### Transcription(s)
+
+The Canadian voice will read: 
+
+> Your call has been forwarded to an automated voice messaging system. [phone number] is not available. At the tone, please record your message.
+
+  <audio controls><source src="https://c.0z.pm/github/canadian.mp3" type="audio/mpeg"></audio>
+
+The British voice will read: 
+
+> Your call has been forwarded to an automated voice messaging system. [phone number] is not available. At the tone, please record your message. When you have finished recording, you may hang up or press pound for more options.
+
+  <audio controls><source src="https://c.0z.pm/github/british.mp3" type="audio/mpeg"></audio>
 
 ### Usage
 
