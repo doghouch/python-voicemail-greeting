@@ -10,13 +10,13 @@ Edit: I've added a British voice (NARRATION_SONIA) as well, but it's a tad glitc
 
 ### Transcription(s)
 
-The Canadian voice will read: 
+The Canadian voice will read ([preview](https://c.0z.pm/github/canadian.mp3)): 
 
 > Your call has been forwarded to an automated voice messaging system. [phone number] is not available. At the tone, please record your message.
 
   <audio controls><source src="https://c.0z.pm/github/canadian.mp3" type="audio/mpeg"></audio>
 
-The British voice will read: 
+The British voice will read ([preview](https://c.0z.pm/github/british.mp3)): 
 
 > Your call has been forwarded to an automated voice messaging system. [phone number] is not available. At the tone, please record your message. When you have finished recording, you may hang up or press pound for more options.
 
