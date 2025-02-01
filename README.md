@@ -37,7 +37,7 @@ There might be a web interface for this *eventually*, but for now, you can run t
 
     **By default, the generated audio will be saved to `output/output.mp3`.**
 
-Note: The script is designed to be called programmatically. `generate_audio()` has an optional `output_path="output/"` parameter, and an optional `output_name="voicemail.mp3"` parameter for this purpose. Feel free to change it to your liking (go ahead and change the audio too, if you'd like!).
+**Note:** The script is designed to be called programmatically. `generate_audio()` has an optional `output_path="output/"` parameter, and an optional `output_name="voicemail.mp3"` parameter for this purpose. Feel free to change it to your liking (go ahead and change the audio too, if you'd like!).
 
 ### Disclaimer
 
@@ -48,6 +48,8 @@ No warranties are provided while using this software. Feel free to pull, fork, a
 This project is licensed under MIT-0. See the LICENSE file for more details.
 
 While licensed under MIT-0, the audio provided may not (though, I've seen a few posts about this, and it seems like no additional licensing exists for generated audio).
+
+See the license file [here](?tab=MIT-0-1-ov-file).
 
 I do appreciate acknowledgements, but <ins>by no means is it required</ins>.
 
