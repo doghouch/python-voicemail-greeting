@@ -29,7 +29,13 @@ There might be a web interface for this *eventually*, but for now, you can run t
     CreateVoicemail.generate_audio([[4, 1, 6], [0, 0, 0], [0, 0, 0, 0]])
     ```
 
-4. Run the script:
+4. Create `output/` directory (if it doesn't alr. exist):
+
+    ```bash
+    mkdir output
+    ```
+
+5. Run the script:
 
     ```bash
     python create_voicemail.py
